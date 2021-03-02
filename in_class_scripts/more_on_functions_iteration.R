@@ -14,7 +14,7 @@ rm(list=ls())
 # add_age_cats(data, age_breaks)
 
 # Load in the NHDS adult dataset
-load("data/nhds/nhds_adult.RData")
+load("H:/document H/master.12.27.19/SimEpi2021/R/SimEpi/SimEpi/example_data/nhds_adult.RData")
 
 # subset the dataset to a few variables we are interested in and rename 
 # age_years to just age
